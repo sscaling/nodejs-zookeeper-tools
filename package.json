@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-zookeeper-tools",
+  "version": "0.0.1",
+  "description": "Some useful tools for working with zookeeper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sscaling/nodejs-zookeeper-tools.git"
+  },
+  "keywords": [
+    "nodejs",
+    "zookeeper",
+    "tools",
+    "utils"
+  ],
+  "author": "sscaling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sscaling/nodejs-zookeeper-tools/issues"
+  },
+  "homepage": "https://github.com/sscaling/nodejs-zookeeper-tools#readme",
+  "dependencies": {
+    "zookeeper": "^3.4.8-1"
+  }
+}
